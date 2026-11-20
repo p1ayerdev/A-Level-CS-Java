@@ -1,4 +1,4 @@
-public class factorialClass {
+public class FactorialClass {
     public static long factorial(long n) {
 
         long res = 1, i;
@@ -9,6 +9,6 @@ public class factorialClass {
     }
 
     public static void main(String[] args) {
-        System.out.println("Factorial is: "+ factorial(-9));
+        System.out.println("Factorial is: "+ factorial(15));
     }
 }

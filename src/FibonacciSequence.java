@@ -1,4 +1,4 @@
-public class fibonacciSequence {
+public class FibonacciSequence {
 
     public static int fib(int n) {
         if (n == 1 || n ==2) {
